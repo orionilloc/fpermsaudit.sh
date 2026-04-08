@@ -1,4 +1,4 @@
-## File Permissions Auditor
+## fpermsaudit.sh
 
 This script performs a security audit of file permissions within the current directory and all subdirectories. It identifies files with potentially risky permission levels—such as those that are world-writable or have SUID/SGID bits set—and generates a formatted text report.
 
